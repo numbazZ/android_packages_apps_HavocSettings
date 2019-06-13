@@ -116,7 +116,7 @@
     <string name="notification_messages">Система</string>
     <string name="notification_stat">Рядок стану</string>
     <string name="notification_misc">Різне</string>
-    <string name="qs_layout_category">Layout</string>
+    <string name="qs_layout_category">Макет</string>
     <string name="qs_element_title">Елементи</string>
     <string name="footer_title">Нижній колонтитул</string>
     <string name="animation_duration_custom">Користувацька</string>
@@ -1093,12 +1093,12 @@
     <string name="power_menu_animation_translucent_bottom">Напівпрозорість (знизу)</string>
     <string name="power_menu_animation_rotate">Обертання</string>
     <!-- Breathing Notifications -->
-    <string name="breathing_notifications_category">\"дихають\" повідомлення</string>
-    <string name="breathing_notifications_title"> \"дихають\" повідомлення</string>
-    <string name="sms_breath_title">\"дихають\" SMS</string>
+    <string name="breathing_notifications_category">\"Дихаючі\" повідомлення</string>
+    <string name="breathing_notifications_title"> \"Дихаючі\" повідомлення</string>
+    <string name="sms_breath_title">\"Дихаючі\" SMS</string>
     <string name="sms_breath_summary">Додасть вашим повідомленнями про SMS ефект \"дихання\" в рядку стану</string>
-    <string name="missed_call_breath_title">\дихають\" пропущені виклики</string>
-    <string name="missed_call_breath_summary">Додасть повідомленнями про пропущені виклики в рядку стану ефект «дихання»</string>
+    <string name="missed_call_breath_title">\"Дихаючі\" пропущені виклики</string>
+    <string name="missed_call_breath_summary">Додасть повідомленнями про пропущені виклики в рядку стану ефект \"дихання\"</string>
     <string name="voicemail_breath_title">\"Дихаюча\" голосова пошта</string>
     <string name="voicemail_breath_summary">Додасть вашим повідомленнями голосової пошти ефект \"дихання\" в рядку стану</string> 
     <!-- Immersive mode messages -->
